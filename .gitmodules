@@ -1,0 +1,3 @@
+[submodule "ColossalAI"]
+	path = ColossalAI
+	url = https://github.com/hpcaitech/ColossalAI.git
